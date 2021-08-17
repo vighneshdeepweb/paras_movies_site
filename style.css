@@ -975,6 +975,15 @@ ul.work-flow-navigation li.active a::after {
 	background: rgba(0, 0, 0, 0) url("img/portfolio/7.jpeg") repeat scroll 0 0 / cover;
 }
 
+.portfolio-bg-8 {
+	background: rgba(0, 0, 0, 0) url("img/portfolio1/extras/1.jpeg") repeat scroll 0 0 / cover;
+}
+.portfolio-bg-9 {
+	background: rgba(0, 0, 0, 0) url("img/portfolio1/extras/7.jpeg") repeat scroll 0 0 / cover;
+}
+.portfolio-bg-10 {
+	background: rgba(0, 0, 0, 0) url("img/portfolio1/extras/3.jpeg") repeat scroll 0 0 / cover;
+}
 .portfolio-view-details {
 	opacity: 0;
 	-webkit-transform: scale(2);
